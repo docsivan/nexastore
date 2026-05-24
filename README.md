@@ -30,25 +30,25 @@ NexaStore is an open source, white-label AI commerce platform that any business 
 
 ## Who Is It For?
 
-| | Audience | What they get |
-|---|---|---|
-| 🛍️ | **Online Retailers** | A branded AI-powered storefront with autonomous inventory, search, and customer engagement |
-| 🏭 | **B2B Distributors** | Contract pricing, account-level access, real-time stock intelligence, and bulk order management |
-| 📦 | **Wholesale Businesses** | Tiered pricing, demand forecasting, and automated low-stock alerts — running 24/7 without staff |
-| 🌐 | **Marketplace Operators** | Multi-category catalogues, AI-powered discovery, and autonomous operations at any scale |
-| 🚀 | **Entrepreneurs** | A complete, production-ready commerce platform live in minutes — no build-from-scratch required |
-| 🏢 | **Technology Companies** | A battle-tested white-label commerce engine to embed, resell, or licence for any vertical |
+| Audience | What they get |
+|---|---|
+| **Online Retailers** | A branded AI-powered storefront with autonomous inventory, search, and customer engagement |
+| **B2B Distributors** | Contract pricing, account-level access, real-time stock intelligence, and bulk order management |
+| **Wholesale Businesses** | Tiered pricing, demand forecasting, and automated low-stock alerts — running 24/7 without staff |
+| **Marketplace Operators** | Multi-category catalogues, AI-powered discovery, and autonomous operations at any scale |
+| **Entrepreneurs** | A complete, production-ready commerce platform live in minutes — no build-from-scratch required |
+| **Technology Companies** | A battle-tested white-label commerce engine to embed, resell, or licence for any vertical |
 
 ---
 
 ## What Makes It Powerful
 
-- **🤖 Haya AI Brain — 6 autonomous agents** that run your business for you: CFO, CMO, CRO, Inventory, Demand, and Chat agents operating continuously without human instruction
-- **📊 Mission Control dashboard** — 7-panel business intelligence giving you live sales, inventory health, order pipeline, customer signals, and AI agent activity in one view
-- **🌍 Full bilingual support** — English and Arabic built in, RTL-aware layout, extensible to any language without code changes
-- **💱 Multi-currency, configurable tax** — set your currency, decimals, and tax rates per deployment with a single environment variable
-- **🔐 Enterprise-grade security** — JWT authentication, OTP login, bcrypt password hashing, account lockout, rate limiting, and CRON_SECRET agent protection
-- **⚡ 24 production-ready API routes** — auth, cart, orders, payments, AI enrichment, autonomous agents, and admin — all wired and ready
+- **Nexa AI — 6 autonomous agents** that run your business for you: CFO, CMO, CRO, Inventory, Demand, and Chat agents operating continuously without human instruction
+- **Mission Control dashboard** — 7-panel business intelligence giving you live sales, inventory health, order pipeline, customer signals, and AI agent activity in one view
+- **Full bilingual support** — English and Arabic built in, RTL-aware layout, extensible to any language without code changes
+- **Multi-currency, configurable tax** — set your currency, decimals, and tax rates per deployment with a single environment variable
+- **Enterprise-grade security** — JWT authentication, OTP login, bcrypt password hashing, account lockout, rate limiting, and CRON_SECRET agent protection
+- **24 production-ready API routes** — auth, cart, orders, payments, AI enrichment, autonomous agents, and admin — all wired and ready
 
 ---
 
@@ -83,13 +83,13 @@ Open [http://localhost:3000](http://localhost:3000) — your NexaStore is runnin
 
 ## Deploy in One Click
 
-### ☁️ Deploy on Kuberns
+### Deploy on Kuberns
 
 NexaStore's recommended hosting partner — container deployment with auto-scaling, built-in SSL, and managed cron scheduling for all AI agents. Simple, affordable, and built for platforms like this.
 
 [![Deploy on Kuberns](https://img.shields.io/badge/Deploy_on-Kuberns-6366F1?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 
-### ▲ Deploy on Vercel
+### Deploy on Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/docsivan/nexastore)
 
